@@ -130,3 +130,4 @@ Author
 Pagadala Bhavana
 
 OUTPUT:
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/4cd45ddb-74a3-43c8-bd83-c938fc53bfa1" />
